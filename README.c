@@ -2,4 +2,5 @@
 void manin()
 {
   printf("hello world");
+  printf("welcome");
 }
